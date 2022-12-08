@@ -1,0 +1,9 @@
+#IDE
+.idea/
+
+#BUILD
+build/
+
+target/
+
+.DS_Store
